@@ -1,0 +1,6 @@
+[workspace]
+
+members = [
+    "rdap",
+    "rdap-cli",
+]
